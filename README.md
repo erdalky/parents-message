@@ -2,6 +2,16 @@
 
 A responsive web application that helps mentors turn weekly program notes into a structured parent update, a printable PDF, a Word-compatible document, and a WhatsApp-ready message.
 
+## A note on the live site
+ 
+The deployed site isn't linked here. It carries information specific to one
+community and that doesn't belong in a public
+repository. This README covers the architecture and the code, which is the part
+worth reading anyway.
+ 
+If you're reviewing my work and want to see it running, ask me and I'll share it
+directly.
+
 ## Features
 
 - Collects lessons, videos, books, activities, book assignments, Qur'an assignments, and parent expectations in one form.
